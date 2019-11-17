@@ -1,2 +1,2 @@
 # tresenelinea
-Tres en línea en c++
+Tres en línea en para dos jugadores en c++
